@@ -19,5 +19,5 @@ Image -> Mask -> Predicted Mask
 ## Implementation 
 Check the [attached notebook](./U_Net.ipynb) for implementation details. 
 
-#NOTE: This is a forked file and original author is Mostafa Wael
-Original link: https://github.com/Mostafa-wael/U-Net-in-PyTorch/blob/main/test.py
+## NOTE: This is a forked file and original author is Mostafa Wael
+# Original link: https://github.com/Mostafa-wael/U-Net-in-PyTorch/blob/main/test.py
